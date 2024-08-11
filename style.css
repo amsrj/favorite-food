@@ -166,6 +166,14 @@ span {
 
 /* Tablets */
 @media ( max-width: 980px ) {
+  .container {
+    padding: 0 30px;
+  }
+
+  .header-inside {
+    padding: 0 30px;
+  }
+  
   .l_col_tablet_12_12 { width: 100%; }
   .l_col_tablet_11_12 { width: 91.66666667%; }
   .l_col_tablet_10_12 { width: 83.33333333%; }
